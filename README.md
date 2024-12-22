@@ -68,7 +68,7 @@
 
 <h2>Output</h2>
 <hr>  
-<p>  
+<p align="center">  
     <img src="https://github.com/MITHUN-17/Web-Design-Development-Landing-Page/blob/d06bf86f65afeb0fb37fc7c8e7cb0a732db50dbe/Output/Screenshot%202024-12-13%20045931.png" alt="Project Output" width="80%">  
 </p>  
 <p align="center"><i>Screenshot of the landing page design.</i></p>  
